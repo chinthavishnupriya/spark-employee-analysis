@@ -1,0 +1,12 @@
+target/
+project/target/
+project/project/
+.idea/
+.vscode/
+.bsp/
+*.class
+*.log
+metastore_db/
+spark-warehouse/
+data/output/
+data/final_output/

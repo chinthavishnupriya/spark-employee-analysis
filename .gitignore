@@ -10,3 +10,5 @@ metastore_db/
 spark-warehouse/
 data/output/
 data/final_output/
+data/employees_parquet/
+data/sales_output/

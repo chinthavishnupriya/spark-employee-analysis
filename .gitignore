@@ -15,3 +15,6 @@ data/sales_output/
 
 # Spark Exercise 20 generated output
 spark-practical-20/exercise-20-dataframe-io/output/
+
+# Spark Exercise 20 end-to-end generated output
+spark-practical-20/exercise-20-end-to-end/output/

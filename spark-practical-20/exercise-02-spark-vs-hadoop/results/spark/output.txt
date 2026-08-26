@@ -1,0 +1,6 @@
+(distributed,2)
+(fast,1)
+(hadoop,1)
+(is,4)
+(powerful,1)
+(spark,3)

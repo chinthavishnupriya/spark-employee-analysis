@@ -12,3 +12,6 @@ data/output/
 data/final_output/
 data/employees_parquet/
 data/sales_output/
+
+# Spark Exercise 20 generated output
+spark-practical-20/exercise-20-dataframe-io/output/
